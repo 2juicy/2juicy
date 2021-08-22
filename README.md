@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Johnny</h1>
 <h3 align="center">Fullstack developer based in Los Angeles, CA</h3>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -8,6 +7,8 @@
       alt="2juicy"
   /></a>
 </p>
+
+---
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -191,6 +192,8 @@
     />
   </a>
 </p>
+
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
