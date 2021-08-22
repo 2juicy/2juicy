@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Johnny</h1>
 <h3 align="center">Fullstack developer based in Los Angeles, CA</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=2juicy&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
@@ -192,6 +192,7 @@
   </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <p>
   <img
     align="left"
