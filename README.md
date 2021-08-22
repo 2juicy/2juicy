@@ -1,11 +1,15 @@
 <h1 align="center">Hi there 👋 I'm Johnny</h1>
+
 <h3 align="center">Fullstack developer based in Los Angeles, CA</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
+  <img
+      src="https://cdn.discordapp.com/emojis/792571099011219496.gif"
+      alt="DJPepe"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
       src="https://github-profile-trophy.vercel.app/?username=2juicy&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
-      alt="2juicy"
-  /></a>
+      alt="2juicy"/>
+  </a>
 </p>
 
 ---
