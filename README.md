@@ -14,7 +14,12 @@
       src="https://cdn.discordapp.com/emojis/557227393996029983.gif"
         height="110"
         width="110"
-      alt="2juicy"/> 
+      alt="Hackermans"/> 
+  <img
+      src="https://cdn.discordapp.com/emojis/830573577510191125.gif"
+        height="110"
+        width="110"
+      alt="Hackermans"/> 
 </p>
 
 ---
