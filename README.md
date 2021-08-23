@@ -10,16 +10,6 @@
       src="https://github-profile-trophy.vercel.app/?username=2juicy&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B"
       alt="2juicy"/>
   </a>
-   <img
-      src="https://cdn.discordapp.com/emojis/557227393996029983.gif"
-        height="110"
-        width="110"
-      alt="Hackermans"/> 
-  <img
-      src="https://cdn.discordapp.com/emojis/830573577510191125.gif"
-        height="110"
-        width="110"
-      alt="Hackermans"/> 
 </p>
 
 ---
